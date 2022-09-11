@@ -6,7 +6,29 @@
 
 
 
-  ### Step 1: Database setup
-  ### Step 2: Deploy
-  <a href="[https://heroku.com/deploy?template=https://github.com/Suesanz/Fitness-Website](https://console.firebase.google.com/u/0/project/react-burger-app-a0245/overview)">
-</a>
+## Presentation
+### Screens
+
+|               Leading page                                                                  |
+|---------------------------------------------------------------------------------------------------------------|
+![leading-Page](https://user-images.githubusercontent.com/47451094/189511990-a8d73283-c786-465b-ade4-c5b3a9e43aad.png)
+<br>
+
+|               SignIn/SignUp                                                                  |
+|---------------------------------------------------------------------------------------------------------------|
+![authentication](https://user-images.githubusercontent.com/47451094/189512051-fdbcd597-6e1c-49c0-a2e6-83c1337dc380.png)
+<br>
+
+|               Burger Building                                                                  |
+|---------------------------------------------------------------------------------------------------------------|
+![Burger-Building](https://user-images.githubusercontent.com/47451094/189512153-09865e07-d331-46d8-ab50-ef24337f085b.png)
+<br>
+
+|               Processing-Order                                                                 |
+|---------------------------------------------------------------------------------------------------------------|
+![Proceeding-Order](https://user-images.githubusercontent.com/47451094/189512173-15365e71-9a9a-47e5-bef5-e40e9f5511ed.png)
+<br>
+
+|               Placing-Order                                                                  |
+|---------------------------------------------------------------------------------------------------------------|
+![Placin-Order](https://user-images.githubusercontent.com/47451094/189512178-35d46d07-7a43-45f8-bd2e-85f4273efa15.png)
