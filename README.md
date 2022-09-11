@@ -3,7 +3,15 @@
 ## This project is a Burger building Website having some great options to customize your orders.
 
    Check it out at https://react-burger-app-a0245.web.app/
-
+   
+   A web app designed in react using redux
+   
+   Every user can build their own burgers and check their orders.
+   
+   Your account information will be saved on a server safely.
+   
+   You can customize your burger to your needs and add as many orders as you like.
+   
 
 
 ## Presentation
