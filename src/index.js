@@ -13,8 +13,8 @@ import orderReducer from './store/reducer/order';
 import authReducer from './store/reducer/auth';
 import { watchAuth, watchBurgerBuilder, watchOder } from './store/sagas/index';
 
-// const composeEnhancer = process.env.NODE_ENV === 'developement' ? window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__: null || compose;
-const composeEnhancer = window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__ || compose;
+const composeEnhancer = process.env.NODE_ENV === 'developement' ? window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__: null || compose;
+// const composeEnhancer = window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__ || compose;
 
 const rootReducer = combineReducers({
   burgerBuilder: burgerBuilderReducer,
