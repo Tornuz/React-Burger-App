@@ -10,7 +10,7 @@
    
    Your account information will be saved on a server safely.
    
-   You can customize your burger to your needs and add as many orders as you like.
+   You can customize your burger to your needs and place as many orders as you like.
    
 
 
